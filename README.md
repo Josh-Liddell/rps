@@ -12,7 +12,7 @@ A simple terminal-based Rock-Paper-Scissors game written in Rust.
 - [Rust](https://www.rust-lang.org/tools/install)
 
 ## Install
-Copy and paste this command into your terminal:
+Run this command, then start a new terminal session to play:
 ```bash
 curl -sSL https://raw.githubusercontent.com/josh-liddell/rps/main/install.sh | sh
 ```

@@ -2,8 +2,8 @@
 set -e
 
 tmp_dir=$(mktemp -d)
-echo "Cloning repo to $tmp_dir..."
-git clone https://github.com/your-username/rps.git "$tmp_dir"
+echo "Cloning repo..."
+git clone https://github.com/josh-liddell/rps.git "$tmp_dir"
 
 cd "$tmp_dir"
 
